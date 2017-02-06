@@ -1,7 +1,7 @@
 # RocketRAID 62x SATA Controller Linux Driver with dkms Support
 
  * Modified from https://github.com/clockfort/rr62x 
- * dkmps.conf and dkms instructions from https://help.ubuntu.com/community/RocketRaid
+ * dkms.conf and dkms instructions from https://help.ubuntu.com/community/RocketRaid
  * see README file for original instructions and requirements
  * was tested on Ubuntu 16.04
  * after dkms support is enabled the driver will be rebuilt and installed automatically on every kernel upgrade
