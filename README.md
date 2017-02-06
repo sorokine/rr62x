@@ -4,7 +4,7 @@
  * dkmps.conf and dkms instructions from https://help.ubuntu.com/community/RocketRaid
  * see README file for original instructions and requirements
  * was tested on Ubuntu 16.04
- * after dkms upport is nabled the driver will be rebuilt and installed automatically on every kernel upgrade
+ * after dkms support is enabled the driver will be rebuilt and installed automatically on every kernel upgrade
 
 ## How To
 
